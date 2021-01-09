@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import { slide as Hamburger } from "react-burger-menu";
 import GalleryOneImg from '../images/pic01.jpg'
 import GalleryTwoImg from '../images/pic02.jpg'
 import GalleryThreeImg from '../images/pic03.jpg'

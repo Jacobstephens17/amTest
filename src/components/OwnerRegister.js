@@ -230,7 +230,7 @@ const OwnerRegister = () => {
                       />
 
                 </OwnerOnly><br></br>
-                <Button>Submit</Button>
+                <Button isDisabled={disabled}  >Submit</Button>
               </BottomInputSection>
 
               <Social>
